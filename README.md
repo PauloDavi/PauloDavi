@@ -1,4 +1,4 @@
-### Hello World, I'm PauloDavi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello World, I'm PauloDavi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -32,6 +32,5 @@
 <br />
 <br />
 
-<img align="left" alt="PauloDavi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloDavi&show_icons=true&hide_border=true" />
-
 <img align="left" alt="PauloDavi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDavi" />
+<img align="left" alt="PauloDavi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloDavi&show_icons=true&hide_border=true" />
