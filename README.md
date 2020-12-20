@@ -4,8 +4,11 @@
 
 - 🔭 I’m currently working on Zeetech
 - 🌱 I’m currently learning NextJS
+- 💻 All of my projects are available at [https://github.com/PauloDavi/PauloDavi](https://github.com/PauloDavi/PauloDavi)
 - 🤔 I’m looking for help with AdonisJS
-- 💬 Ask me about ... Anithing
+- 💬 Ask me about React, Node and TypeScript
+- 📫 How to reach me **paulo.araujo@cear.ufpb.br**
+- ⚡ Fun fact I love TypeScript and Dogs 🐶
 
 <br />
 
