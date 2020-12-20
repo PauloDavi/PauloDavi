@@ -32,5 +32,7 @@
 <br />
 <br />
 
+### Statistic:
+
 <img align="left" alt="PauloDavi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDavi" />
 <img align="left" alt="PauloDavi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloDavi&show_icons=true&hide_border=true" />
