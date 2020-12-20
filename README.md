@@ -27,7 +27,7 @@
 
 <br />
 <br />
----
+<br />
 
 <img align="left" alt="PauloDavi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloDavi&show_icons=true&hide_border=true" />
 
