@@ -1,6 +1,6 @@
 ### Hello World, I'm PauloDavi 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m currently working on Zeetech
 - 🌱 I’m currently learning NextJS
