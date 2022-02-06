@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Zeetech
 - 🌱 I’m currently learning NextJS
-- 💻 All of my projects are available at [https://github.com/PauloDavi/PauloDavi](https://github.com/PauloDavi/PauloDavi)
+- 💻 My portfolio [https://portfolio-paulo-davi.vercel.app/](https://portfolio-paulo-davi.vercel.app/)
 - 🤔 I’m looking for help with AdonisJS
 - 💬 Ask me about React, Node and TypeScript
 - 📫 How to reach me **paulo.araujo@cear.ufpb.br**
