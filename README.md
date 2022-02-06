@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on Zeetech
 - 🌱 I’m currently learning NextJS
 - 💻 My portfolio [https://portfolio-paulo-davi.vercel.app/](https://portfolio-paulo-davi.vercel.app/)
-- 🤔 I’m looking for help with AdonisJS
-- 💬 Ask me about React, Node and TypeScript
-- 📫 How to reach me **paulo.araujo@cear.ufpb.br**
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about React, Node, TypeScript, NextJS and NestJS
+- 📫 How to reach me **paulo.araujo@cear.ufpb.br** or **araujo.paulo.davi@gmail.com**
 - ⚡ Fun fact I love TypeScript and Dogs 🐶
 
 <br />
