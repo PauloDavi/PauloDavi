@@ -2,10 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on Zeetech
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working on [Cobli](https://github.com/Cobliteam)
+- 🌱 I’m currently learning Scala
 - 💻 My portfolio [https://portfolio-paulo-davi.vercel.app/](https://portfolio-paulo-davi.vercel.app/)
-- 🤔 I’m looking for help with AWS
 - 💬 Ask me about React, Node, TypeScript, NextJS and NestJS
 - 📫 How to reach me **paulo.araujo@cear.ufpb.br** or **araujo.paulo.davi@gmail.com**
 - ⚡ Fun fact I love TypeScript and Dogs 🐶
