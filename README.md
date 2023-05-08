@@ -3,9 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m currently working on [Cobli](https://github.com/Cobliteam)
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning k8s and C
 - 💻 My portfolio [https://portfolio-paulo-davi.vercel.app/](https://portfolio-paulo-davi.vercel.app/)
-- 💬 Ask me about React, Node, TypeScript, NextJS and NestJS
+- 💬 Ask me about React, Node, TypeScript, NextJS, NestJS, Spring/Kotlin and GoLang
 - 📫 How to reach me **paulo.araujo@cear.ufpb.br** or **araujo.paulo.davi@gmail.com**
 - ⚡ Fun fact I love TypeScript and Dogs 🐶
 
